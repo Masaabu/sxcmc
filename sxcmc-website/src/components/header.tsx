@@ -8,6 +8,7 @@ import { Menu, X } from 'lucide-react';
 const headerContents = [
 	{ label: "Home", href: "/" },
 	{ label: "Join", href: "/join" },
+	{ label: "Rule", href: "/rule" },
 	{ label: "Map", href: "/map" },
 	{ label: "Wiki", href: "/wiki" },
 	{ label: "Discord", href: "/discord" }

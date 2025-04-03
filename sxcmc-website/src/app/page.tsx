@@ -29,8 +29,3 @@ export default function Home() {
     </div>
   );
 }
-
-// font-size: 1.5rem;
-// margin-bottom: 1rem;
-// border-left: 4px solid var(--accent);
-// padding-left: 0.5rem;
