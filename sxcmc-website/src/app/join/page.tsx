@@ -18,7 +18,7 @@ export default function Page() {
       <div className="mx-auto my-10 p-8 md:max-w-[85vw] bg-[var(--card-background)] rounded-lg shadow-lg shadow-black/30">
         <h2 className="mb-5 pb-2 text-3xl font-semibold border-[var(--accent)] border-b-2">Java版</h2>
         <p>サーバーアドレス</p>
-        <ClipboardInput text="mc.sxclij.com" />
+        <ClipboardInput text="mc.lkjsxc.com" />
         <img className="mt-2 rounded-md" src="images/join/je.webp" alt="true" width={512} height={189} />
         <h2 className="mt-10 mb-5 pb-2 text-3xl font-semibold border-[var(--accent)] border-b-2">統合版 (PC/モバイル)</h2>
         <p>ボタンををクリック</p>
@@ -29,7 +29,7 @@ export default function Page() {
           サーバーを追加
         </a>
         <p>または<br/>サーバーアドレス</p>
-        <ClipboardInput text="mc.sxclij.com" />
+        <ClipboardInput text="mc.lkjsxc.com" />
         <p>ポート (デフォルト)</p>
         <ClipboardInput text="19132" />
         <img className="mt-2 rounded-md" src="images/join/be.webp" alt="true" width={512} height={322} />
